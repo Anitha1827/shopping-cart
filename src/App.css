@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: "27px";
+  justify-content: center;
+}
+
+.cart-value{
+  display: flex;
+  justify-content: end;
+  margin: 15px;
+  font-size: larger;
+}
+
+.images{
+  width: 300px;
+  height: 286px;
+}
